@@ -1,0 +1,39 @@
+{
+  "scrum" : [ {
+    "employeeId" : 255,
+    "firstName" : "Ramtin",
+    "lastName" : "Ho",
+    "email" : "TomJones@singer.com",
+    "phoneNumber" : "424-666-4444",
+    "hireDate" : "03/07/2023",
+    "jobId" : "AD_VP",
+    "salary" : 10000,
+    "comissionPct" : 0.1,
+    "managerId" : 201,
+    "departmentId" : 30
+  }, {
+    "employeeId" : 246,
+    "firstName" : "Rum",
+    "lastName" : "Hos",
+    "email" : "mouse@cat.com",
+    "phoneNumber" : "818-111-3434",
+    "hireDate" : "03/29/2023",
+    "jobId" : "AD_VP",
+    "salary" : 10000,
+    "comissionPct" : 0.1,
+    "managerId" : 114,
+    "departmentId" : 30
+  } ],
+  "sit" : [ {
+    "firstName" : "sit frameworkdata",
+    "lastName" : "api",
+    "email" : "example@example.com",
+    "phoneNumber" : "<phone_number>",
+    "hireDate" : "01/01/1970",
+    "jobId" : "AD_VP",
+    "salary" : 3000,
+    "comissionPct" : 0.1,
+    "managerId" : 140,
+    "departmentId" : 20
+  } ]
+}
